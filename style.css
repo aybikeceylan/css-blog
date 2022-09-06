@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.blog {
+  border: 3.2px solid rgb(120, 4, 130);
+  display: flex;
+  width: 700px;
+  height: 200px;
+  margin: 0 auto;
+  padding: 0.5rem;
+}
+.img {
+  width: 250px;
+  height: 135px;
+  margin: 0 auto;
+}
+.text {
+  margin-left: 0.3rem;
+  margin-top: 1rem;
+  color: rgb(156, 133, 153);
+}
+p {
+  margin-top: 1rem;
+}
